@@ -1,7 +1,8 @@
-![logo](https://github.com/SamarthJain1107/SamarthJain1107/blob/main/banner.png)
+<!-- ![logo](https://github.com/SamarthJain1107/SamarthJain1107/blob/main/banner.png) -->
 
-<h1 align="center">Hi 👋, I'm Samarth Jain</h1>
-<h3 align="center">C+C++ || Java || Python || Cloud || Web Dev || DSA || Enthusiast</h3>
+<h1  align="center">Hey it's 𝕾𝖆𝖒𝖆𝖗𝖙𝖍 𝕵𝖆𝖎𝖓</h1>
+<h3 align="center">​
+🅲++ || 🅹🅰🆅🅰  || 🅲🅻🅾🆄🅳 || 🆆🅴🅱 🅳🅴🆅 || 🅳🆂🅰 </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
                                                                                      
 
@@ -11,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Build a Full-Stack React Application**
+- 🔭 I’m currently working on **𝐁𝐮𝐢𝐥𝐝 𝐚 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐑𝐞𝐚𝐜𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧**
 
 - 🌱 I’m currently learning **Back End**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/samarth-jain-895363167/](https://www.linkedin.com/in/samarth-jain-895363167/)
+
 
 - 💬 Ask me about **Coding & Web**
 
@@ -25,7 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samarth jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth jain" height="30" width="40" /></a>
+  <a href="https://instagram.com/in/samarth jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth jain" height="30" width="40" /></a>
+<a href="https://instagram.com/sammy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samarthjain1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthjain1107" height="30" width="40" /></a>
 </p>
 
