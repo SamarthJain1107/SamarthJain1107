@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **𝐁𝐮𝐢𝐥𝐝 𝐚 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐑𝐞𝐚𝐜𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Back End**
 
