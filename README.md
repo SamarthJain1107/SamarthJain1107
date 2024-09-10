@@ -14,11 +14,9 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Back End**
 
 
-
-- 💬 Ask me about **Coding & Web**
+- 💬 Ask me about **Code Cloud & Web**
 
 - 📫 How to reach me **samarthjain1107@gmail.com**
 
